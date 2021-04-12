@@ -1,4 +1,4 @@
-# PythonMove
+# Move Files
 
 A python script to move files matching a given pattern recursivly from a folder to another location.
 
