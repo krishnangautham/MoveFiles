@@ -4,6 +4,7 @@ A python script to move files matching a given pattern recursivly from a folder 
 
 # Usage Example: 
 
-python FileMove.py '/Users/abc/Desktop/Test/**/*.txt' '/Users/abc/Desktop/Move'
-
+```sh
+  python FileMove.py '/Users/abc/Desktop/Test/**/*.txt' '/Users/abc/Desktop/Move'
+  ```
 Will move all the text files inside '/Users/abc/Desktop/Test/' folder and sub folders to '/Users/abc/Desktop/Move'
